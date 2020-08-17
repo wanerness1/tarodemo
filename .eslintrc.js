@@ -1,3 +1,5 @@
 module.exports = {
-  'extends': ['taro/react']
+  'extends': ['taro/react'],
+  "parser": "babel-eslint",
+  
 }

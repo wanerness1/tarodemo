@@ -42,6 +42,8 @@
     "@tarojs/redux": "^2.2.10",
     "@tarojs/runtime": "3.0.7",
     "@tarojs/taro": "3.0.7",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
     "react": "^16.10.0",
     "react-dom": "^16.10.0",
     "react-redux": "^7.2.0",
